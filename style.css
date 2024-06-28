@@ -14,7 +14,7 @@
   /* 배경 이미지 설정 */
   background:
       linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), /* 그리디언트 추가 */
-      url('room.jpg');
+      url('./room.jpg');
     }
 
 .container.header {
